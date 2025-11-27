@@ -2,14 +2,14 @@
 - Frontend Engineer / Web Developer
 - 🏍 I like bike
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ishimaruryouto&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimaruryouto&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 
-## 🛠 Skills
+## Skills
 <div>
   <img src="https://skillicons.dev/icons?i=nextjs" width="55" />
   <img src="https://skillicons.dev/icons?i=astro" width="55" />
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ps" width="55" />
 </div>
 
-## 📚 Learning
+## Learning
 <div>
   <img src="https://skillicons.dev/icons?i=php" width="55" />
   <img src="https://skillicons.dev/icons?i=mysql" width="55" />
