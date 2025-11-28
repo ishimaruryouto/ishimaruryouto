@@ -9,7 +9,7 @@
 </div>
 
 
-## Skills
+## 😎 Skills
 <div>
   <img src="https://skillicons.dev/icons?i=nextjs" width="55" />
   <img src="https://skillicons.dev/icons?i=astro" width="55" />
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ps" width="55" />
 </div>
 
-## Learning
+## 📖 Learning...
 <div>
   <img src="https://skillicons.dev/icons?i=php" width="55" />
   <img src="https://skillicons.dev/icons?i=mysql" width="55" />
